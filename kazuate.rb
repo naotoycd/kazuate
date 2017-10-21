@@ -29,7 +29,6 @@ def judge(ans, str)
 end
 
 ans = genprob
-puts "answer = #{ans}."
 10.times do
   print "your guess? "
   str = gets
